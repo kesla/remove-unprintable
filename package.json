@@ -1,0 +1,29 @@
+{
+  "name": "remove-unprintable",
+  "version": "0.0.0",
+  "description": "Return a new string with all unprintable characters removed",
+  "main": "removeUnprintable.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesla/remove-unprintable.git"
+  },
+  "keywords": [
+    "string",
+    "cleanup",
+    "ascii",
+    "unprintable",
+    "characters"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT"
+}
