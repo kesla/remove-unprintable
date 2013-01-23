@@ -1,4 +1,4 @@
-#remove-unprintable
+#remove-unprintable[![build status](https://secure.travis-ci.org/kesla/remove-unprintable.png)](http://travis-ci.org/kesla/remove-unprintable)
 
 Small npm module to remove all unprintable characters from a string
 
