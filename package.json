@@ -2,7 +2,7 @@
   "name": "remove-unprintable",
   "version": "0.0.0",
   "description": "Return a new string with all unprintable characters removed",
-  "main": "removeUnprintable.js",
+  "main": "remove-unprintable.js",
   "directories": {
     "test": "test"
   },
