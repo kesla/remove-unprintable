@@ -1,6 +1,6 @@
 {
   "name": "remove-unprintable",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Return a new string with all unprintable characters removed",
   "main": "remove-unprintable.js",
   "directories": {
