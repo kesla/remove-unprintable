@@ -24,5 +24,5 @@ function hasUnprintable (str) {
 }
 
 function isUnprintable (charCode) {
-  return charCode !== 9 && (charCode < 32 || charCode === 65279);
+  return charCode !== 9 && charCode !== 10 && (charCode < 32 || charCode === 65279);
 }
